@@ -1,0 +1,8 @@
+{
+  "appId": "com.msl.tradingjournal",
+  "appName": "MSL Trading Journal",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

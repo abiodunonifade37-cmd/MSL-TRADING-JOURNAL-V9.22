@@ -1,0 +1,17 @@
+{
+  "name": "msl-trading-journal-v92-android",
+  "version": "9.2.1",
+  "private": true,
+  "description": "Android wrapper build for MSL Trading Journal V9.2",
+  "scripts": {
+    "android:add": "cap add android",
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "7.4.3",
+    "@capacitor/core": "7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "7.4.3"
+  }
+}
